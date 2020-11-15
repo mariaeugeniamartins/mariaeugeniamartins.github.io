@@ -32,7 +32,7 @@ Quando você cria um branch fora do mainbranch, você está fazendo uma cópia, 
 2. Clique em branch > main.
 3. Coloque um nome para o nomo branch, readme-edits por exemplo.
 
-
+![Nova Branch](https://github.com/mariaeugeniamartins/mariaeugeniamartins.github.io/blob/main/readme-edits.gif)
 
 ## Etapa 3. Fazendo commits 
 
