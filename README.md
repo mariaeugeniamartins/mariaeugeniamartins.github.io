@@ -79,7 +79,7 @@ Nesta etapa final, é hora de reunir suas alterações - mesclando seu readme-ed
 1. Mudar o nome do repositório (caso já exista) para <nome do usuário>.github.io.
 2. Caso não tenha repositório, criar um com as características acima.
 3. Clicar em settings e escolher um tema para o site.
-4. Após isso, basta você colocar o seu contedo no README.md do repositório.
+4. Após isso, basta você colocar o seu conteúdo no README.md do repositório.
 
 ## Extras
 
