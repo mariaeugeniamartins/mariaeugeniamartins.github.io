@@ -26,7 +26,7 @@ Por padrão, seu repositório tem um branch chamado mainque é considerado o bra
 
 Quando você cria um branch fora do mainbranch, você está fazendo uma cópia, ou instantâneo, de maincomo ele era naquele momento. Se outra pessoa fez alterações no mainbranch enquanto você estava trabalhando em seu branch, você poderia obter essas atualizações.
 
-### To create a new Branch
+### Criando uma nova Branch
 
 1. Vá para o seu novo repositório criado.
 2. Clique em branch > main.
@@ -34,14 +34,14 @@ Quando você cria um branch fora do mainbranch, você está fazendo uma cópia, 
 
 ![Nova Branch](https://github.com/mariaeugeniamartins/Trabalho-Informatica/blob/readme-edits/readme-edits.gif)
 
-## Step 3. Make and commit changes
+## Step 3. Fazendo commits 
 
 Agora com a branch feita, que é uma cópia do main, podemos fazer algumas edições.
 
 No GitHub, as alterações salvas são chamadas de commits. Cada confirmação tem uma mensagem de confirmação associada, que é uma descrição que explica por que uma mudança específica foi feita. Mensagens de confirmação capturam o histórico de suas alterações, para que outros colaboradores possam entender o que você fez e por quê.
 
 
-### Make and commit changes
+### Fazendo commits - Passo a passo
 
 1. Clique no arquivo README.md.
 2. Clique no ícone de canetinha para editar.
@@ -51,7 +51,7 @@ No GitHub, as alterações salvas são chamadas de commits. Cada confirmação t
 
 Essas alterações serão feitas apenas no arquivo README em seu branch readme-edits, então agora este branch contém conteúdo diferente do main.
 
-## Step 4. Open a Pull Request
+## Step 4. Pull Request
 
 As solicitações pull são o principal objetivo da colaboração no GitHub. Quando você abre uma solicitação pull, está propondo suas alterações e solicitando que alguém analise e extraia sua contribuição e as mescle em seu branch. As solicitações pull mostram diffs, ou diferenças, do conteúdo de ambas as branches. As alterações, adições e subtrações são mostradas em verde e vermelho.
 
@@ -64,7 +64,7 @@ Assim que você fizer um commit, poderá abrir uma solicitação pull e iniciar 
 4. Quando estiver satisfeito com as alterações que deseja enviar, clique no grande botão verde Criar solicitação pull .
 5. Dê um título à sua solicitação de pull e escreva uma breve descrição de suas alterações.
 
-Quando terminar sua mensagem, clique em Criar solicitação de pull !
+Quando terminar sua mensagem, clique em Criar solicitação de pull!
 
 ## Etapa 5. Mesclar sua solicitação pull
 Nesta etapa final, é hora de reunir suas alterações - mesclando seu readme-editsbranch com o mainbranch.
@@ -78,3 +78,7 @@ Nesta etapa final, é hora de reunir suas alterações - mesclando seu readme-ed
 Para colocar gifs, imagens e vídeos, basta ver o vídeo abaixo.
 
 [![](http://img.youtube.com/vi/T70t3mDiwvg/0.jpg)](http://www.youtube.com/watch?v=T70t3mDiwvg "Vídeo - Ensinando a colocar imagem, gif, etc no GitHub")
+
+Para criar um site com GitHub Pages:
+
+[![](http://img.youtube.com/vi/5B4bHSiOOO8/0.jpg)](http://www.youtube.com/watch?v=5B4bHSiOOO8 "Vídeo - Ensinando a criar um site no GitHub com GitHub Pages")
