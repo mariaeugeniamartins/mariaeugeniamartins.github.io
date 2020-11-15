@@ -4,13 +4,13 @@
 
 GitHub é uma plataforma de hospedagem de código para controle de versão e colaboração. Ele permite que você e outras pessoas trabalhem juntos em projetos de qualquer lugar.
 
-Este tutorial ensina os fundamentos do GitHub, como repositórios , branches , commits e pull Requests . Você criará seu próprio repositório Hello World e aprenderá o fluxo de trabalho Pull Request do GitHub, uma forma popular de criar e revisar código.
+Neste trabalho, iremos apresentar alguns conceitos básicos como a criação de repositórios, branches, commits e pull Requests.
 
 ## Etapa 1. Criar um Repositório
 
 Um repositório geralmente é usado para organizar um único projeto. Os repositórios podem conter pastas e arquivos, imagens, vídeos, planilhas e conjuntos de dados - qualquer coisa que seu projeto precisar. Recomendamos incluir um README ou um arquivo com informações sobre seu projeto. O GitHub facilita a adição de um ao mesmo tempo que você cria seu novo repositório. Ele também oferece outras opções comuns, como um arquivo de licença.
 
-Seu hello-worldrepositório pode ser um lugar onde você armazena ideias, recursos ou até mesmo compartilha e discute coisas com outras pessoas.
+Seu hello-world repositório pode ser um lugar onde você armazena ideias, recursos ou até mesmo compartilha e discute coisas com outras pessoas.
 
 ### Para criar um novo repositório
 
