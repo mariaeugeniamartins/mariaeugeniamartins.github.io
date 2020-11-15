@@ -32,9 +32,9 @@ Quando você cria um branch fora do mainbranch, você está fazendo uma cópia, 
 2. Clique em branch > main.
 3. Coloque um nome para o nomo branch, readme-edits por exemplo.
 
-![Nova Branch](https://github.com/mariaeugeniamartins/Trabalho-Informatica/blob/readme-edits/readme-edits.gif)
 
-## Step 3. Fazendo commits 
+
+## Etapa 3. Fazendo commits 
 
 Agora com a branch feita, que é uma cópia do main, podemos fazer algumas edições.
 
@@ -51,7 +51,7 @@ No GitHub, as alterações salvas são chamadas de commits. Cada confirmação t
 
 Essas alterações serão feitas apenas no arquivo README em seu branch readme-edits, então agora este branch contém conteúdo diferente do main.
 
-## Step 4. Pull Request
+## Etapa 4. Pull Request
 
 As solicitações pull são o principal objetivo da colaboração no GitHub. Quando você abre uma solicitação pull, está propondo suas alterações e solicitando que alguém analise e extraia sua contribuição e as mescle em seu branch. As solicitações pull mostram diffs, ou diferenças, do conteúdo de ambas as branches. As alterações, adições e subtrações são mostradas em verde e vermelho.
 
