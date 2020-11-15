@@ -28,33 +28,34 @@ Quando você cria um branch fora do mainbranch, você está fazendo uma cópia, 
 
 ### To create a new Branch
 
-1. Go to your new repository hello-world.
-2. Click the drop down at the top of the file list that says branch: main.
-3. Type a branch name, readme-edits, into the new branch text box.
-4. Select the blue Create branch box or hit “Enter” on your keyboard.
+1. Vá para o seu novo repositório criado.
+2. Clique em branch > main.
+3. Coloque um nome para o nomo branch, readme-edits por exemplo.
+
+![Nova Branch](https://github.com/mariaeugeniamartins/Trabalho-Informatica/blob/readme-edits/readme-edits.gif)
 
 ## Step 3. Make and commit changes
 
-Bravo! Now, you’re on the code view for your readme-edits branch, which is a copy of main. Let’s make some edits.
+Agora com a branch feita, que é uma cópia do main, podemos fazer algumas edições.
 
-On GitHub, saved changes are called commits. Each commit has an associated commit message, which is a description explaining why a particular change was made. Commit messages capture the history of your changes, so other contributors can understand what you’ve done and why.
+No GitHub, as alterações salvas são chamadas de commits. Cada confirmação tem uma mensagem de confirmação associada, que é uma descrição que explica por que uma mudança específica foi feita. Mensagens de confirmação capturam o histórico de suas alterações, para que outros colaboradores possam entender o que você fez e por quê.
+
 
 ### Make and commit changes
 
-1. Click the README.md file.
-2. Click the  pencil icon in the upper right corner of the file view to edit.
-3. In the editor, write a bit about yourself.
-4. Write a commit message that describes your changes.
-5. Click Commit changes button.
+1. Clique no arquivo README.md.
+2. Clique no ícone de canetinha para editar.
+3. No editor, escreva algo.
+4. Escreva uma mensagem de confirmação que descreva suas mudanças.
+5. Clique no botão "commit changes".
 
-These changes will be made to just the README file on your readme-edits branch, so now this branch contains content that’s different from main.
+Essas alterações serão feitas apenas no arquivo README em seu branch readme-edits, então agora este branch contém conteúdo diferente do main.
 
 ## Step 4. Open a Pull Request
-Nice edits! Now that you have changes in a branch off of main, you can open a pull request.
 
-Pull Requests are the heart of collaboration on GitHub. When you open a pull request, you’re proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch. Pull requests show diffs, or differences, of the content from both branches. The changes, additions, and subtractions are shown in green and red.
+As solicitações pull são o principal objetivo da colaboração no GitHub. Quando você abre uma solicitação pull, está propondo suas alterações e solicitando que alguém analise e extraia sua contribuição e as mescle em seu branch. As solicitações pull mostram diffs, ou diferenças, do conteúdo de ambas as branches. As alterações, adições e subtrações são mostradas em verde e vermelho.
 
-As soon as you make a commit, you can open a pull request and start a discussion, even before the code is finished.
+Assim que você fizer um commit, poderá abrir uma solicitação pull e iniciar uma discussão, mesmo antes de o código ser concluído.
 
 ### Abra uma solicitação pull para alterações no README
 1. Clique no  Pedido Pull guia, em seguida, a partir da página de solicitação de recebimento, clique no verde Novo pedido puxar botão.
@@ -71,3 +72,9 @@ Nesta etapa final, é hora de reunir suas alterações - mesclando seu readme-ed
 1. Clique no botão verde Merge pull request para mesclar as alterações em main.
 2. Clique em Confirmar mesclagem .
 3. Vá em frente e exclua o branch, uma vez que suas alterações foram incorporadas, com o botão Excluir branch na caixa roxa.
+
+## Extras
+
+Para colocar gifs, imagens e vídeos, basta ver o vídeo abaixo!
+
+[![](http://img.youtube.com/vi/T70t3mDiwvg/0.jpg)](http://www.youtube.com/watch?v=T70t3mDiwvg "Vídeo - Ensinando a colocar imagem, gif, etc no GitHub")
