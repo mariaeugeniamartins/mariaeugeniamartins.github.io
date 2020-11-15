@@ -79,6 +79,6 @@ Para colocar gifs, imagens e vídeos, basta ver o vídeo abaixo.
 
 [![](http://img.youtube.com/vi/T70t3mDiwvg/0.jpg)](http://www.youtube.com/watch?v=T70t3mDiwvg "Vídeo - Ensinando a colocar imagem, gif, etc no GitHub")
 
-Para criar um site com GitHub Pages:
+Para criar um site com GitHub Pages: 
 
 [![](http://img.youtube.com/vi/5B4bHSiOOO8/0.jpg)](http://www.youtube.com/watch?v=5B4bHSiOOO8 "Vídeo - Ensinando a criar um site no GitHub com GitHub Pages")
