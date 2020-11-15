@@ -75,6 +75,6 @@ Nesta etapa final, é hora de reunir suas alterações - mesclando seu readme-ed
 
 ## Extras
 
-Para colocar gifs, imagens e vídeos, basta ver o vídeo abaixo!
+Para colocar gifs, imagens e vídeos, basta ver o vídeo abaixo.
 
 [![](http://img.youtube.com/vi/T70t3mDiwvg/0.jpg)](http://www.youtube.com/watch?v=T70t3mDiwvg "Vídeo - Ensinando a colocar imagem, gif, etc no GitHub")
