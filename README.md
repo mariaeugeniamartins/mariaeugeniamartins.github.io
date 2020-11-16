@@ -19,6 +19,8 @@ Seu repositório pode ser um lugar onde você armazena ideias, recursos ou até 
 3. Escreva uma breve descrição.
 4. Selecione a opção "Initialize this repository with: Add a README file".
 
+![Novo Repositório](https://github.com/mariaeugeniamartins/mariaeugeniamartins.github.io/blob/main/novorepositorio.jpeg)
+
 Obs: Se quiser usar direto no terminal, basta colocar na linha de comando git init para iniciar um novo repositório.
 
 ## Etapa 2. Criar uma Branch
