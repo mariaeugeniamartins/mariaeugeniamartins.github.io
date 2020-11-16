@@ -88,8 +88,8 @@ Assim que você fizer um commit, poderá abrir uma solicitação pull e iniciar 
 
 Quando terminar sua mensagem, clique em Criar solicitação de pull!
 
-## Etapa 5. Merge Pull Request
-Nesta etapa final, é hora de reunir suas alterações - mesclando seu readme-editsbranch com o mainbranch.
+## Etapa 5. Merge
+Nesta etapa final, é hora de reunir suas alterações - mesclando seu readme-edits com o main.
 
 1. Clique no botão verde Merge pull Request para mesclar as alterações em main.
 2. Clique em Confirmar Merge.
