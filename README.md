@@ -15,11 +15,15 @@ Seu repositório pode ser um lugar onde você armazena ideias, recursos ou até 
 ### Para criar um novo repositório
 
 1. No canto superior direito, próximo ao seu ícone de identidade, clique e selecione Novo repositório.
+![Novo Repositório](https://github.com/mariaeugeniamartins/mariaeugeniamartins.github.io/blob/main/novorepositorio.jpeg)
+
 2. Nomeie seu repositório.
+![Nome do Repositório](https://github.com/mariaeugeniamartins/mariaeugeniamartins.github.io/blob/main/nomedorepositorio.jpeg)
+
 3. Escreva uma breve descrição.
 4. Selecione a opção "Initialize this repository with: Add a README file".
+![Add README](https://github.com/mariaeugeniamartins/mariaeugeniamartins.github.io/blob/main/addreadme.jpeg)
 
-![Novo Repositório](https://github.com/mariaeugeniamartins/mariaeugeniamartins.github.io/blob/main/novorepositorio.jpeg)
 
 Obs: Se quiser usar direto no terminal, basta colocar na linha de comando git init para iniciar um novo repositório.
 
