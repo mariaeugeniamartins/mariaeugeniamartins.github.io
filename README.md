@@ -81,18 +81,18 @@ Envia (ou tenta enviar) o código para o repositório online.
 
 ## Etapa 4. Pull Request
 
-A pull request é o principal objetivo da colaboração no GitHub. Quando você abre um pull request, está propondo suas alterações e solicitando que alguém analise e extraia sua contribuição e as mescle em seu branch. A pull request mostra diffs, ou diferenças, do conteúdo de ambas as branches. As alterações, adições e subtrações são mostradas em verde e vermelho.
+O pull request é o principal objetivo da colaboração no GitHub. Quando você abre um pull request, está propondo suas alterações e solicitando que alguém analise e extraia sua contribuição e as mescle em seu branch. O pull request mostra diffs, ou diferenças, do conteúdo de ambas as branches. As alterações, adições e subtrações são mostradas em verde e vermelho.
 
-Assim que você fizer um commit, poderá abrir uma pull request e iniciar uma discussão, mesmo antes de o código ser concluído.
+Assim que você fizer um commit, poderá abrir um pull request e iniciar uma discussão, mesmo antes de o código ser concluído.
 
-### Abra uma pull request para alterações no README
+### Abra um Pull Request para alterações no README
 1. Clique no botão Pull Request, em seguida, a partir da página de solicitação de recebimento, clique no verde Novo pedido puxar botão.
 2. Na caixa Comparações de exemplo , selecione o ramo que você fez readme-edits, para comparar com main (o original).
 3. Examine suas mudanças nos diffs na página Compare, certifique-se de que são o que você deseja enviar.
-4. Quando estiver satisfeito com as alterações que deseja enviar, clique no grande botão verde Criar pull request.
+4. Quando estiver satisfeito com as alterações que deseja enviar, clique no grande botão verde Criar Pull Request.
 5. Dê um título à sua solicitação de pull e escreva uma breve descrição de suas alterações.
 
-Quando terminar sua mensagem, clique em Criar pull request!
+Quando terminar sua mensagem, clique em Criar Pull Request!
 
 ## Etapa 5. Merge
 Nesta etapa final, é hora de reunir suas alterações - mesclando seu readme-edits com o main.
